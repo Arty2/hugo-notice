@@ -1,0 +1,8 @@
+- id: warning
+  translation: "Προειδοποίηση"
+- id: note
+  translation: "Σημείωση"
+- id: info
+  translation: "Πληροφορίες"
+- id: tip
+  translation: "Συμβουλή"
